@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="mockito">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/mockito-all-1.9.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/javassist.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/gwt-dev.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/gwt-servlet-deps.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/gwt-servlet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/mockito-all-1.9.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/gwt-dev.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/gwt-servlet.jar!/" />
+    </SOURCES>
+  </library>
+</component>

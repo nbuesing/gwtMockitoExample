@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gwtmockito">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/gwtmockito-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
