@@ -5,7 +5,6 @@
     <!-- Inherit the core Web Toolkit stuff.                  -->
     <inherits name='com.google.gwt.user.User'/>
     <!--<inherits name='com.google.web.bindery.event.EventBinder'/>-->
-    <inherits name="com.sencha.gxt.ui.GXT"/>
 
     <!-- Specify the app entry point class.                   -->
     <entry-point class='com.objectpartners.buesing.sample.client.SampleApplication'/>
